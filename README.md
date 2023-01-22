@@ -18,3 +18,4 @@ Launches the test runner in the interactive watch mode.<br />
 
 ### `npm run deploy`
 Builds the app for production to the build folder. Build information is automatically updated to gh-pages and deployed to Github page.<br />
+# casino-game
